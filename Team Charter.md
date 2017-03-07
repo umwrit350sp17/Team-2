@@ -19,7 +19,12 @@ Skylar:
 1. Create work that is easily marketable to our intended target publics. We want to create work that can be used if picked up by either a marketing or Public Relations campaign (Important to show the accessibility of Open-Source Materials).
 2. Create a workspace that is inclusive to all team members; allowing all members to contribute equally and resourcefully
 3. Learn about our chosen software and potentially implement what I learn into my own technical regimen. 
-Rosalee:
+
+Rosalee: 1 Keep an open mind about marketing our product. 2 Allow creative
+energy flow between our group. 3 Do our best job to complete the assignment 
+to the best of our abilities.
+
+
 Kelsey:
 1. Allow all team members to share ideas and contribute to the project.
 2. Stay in communication with team members and make sure we are all on the same page. 
@@ -30,7 +35,7 @@ Individual Committments:
 
 Skylar Sandroni: I plan to contribute as much time and effort needed to complete this project. If decided to split the work threeways, I will be willing to contribute extra time, if needed, to do extra research or other clerical needs. 
 
-Rosalee Severino:
+Rosalee Severino: I plan to contribute all the necessary time and effort to this project accordingly.
 
 Kelsey Donovan: I plan to contribute my time and effort to the group and project. If we need to meet in person to discuss or work on it to avoid miscommunication, I will be willing to do that as well.
 
@@ -45,6 +50,9 @@ II. If we can delegate our workload equally, then I believe we might be able to 
 III. I don't believe there will be many concerns if all group members keep in contact and track eachother's progress throughout the week. 
 
 Rosalee:
+The only concern I have for this project is I will be applying to law schools during 
+this period as well as taking 2 other writing classes. I think it wont be too much of a problem 
+if we all just stay in contact.
 
 Kelsey:
 I. I am currently in 19 hours at the University of Mississippi and in Air Force ROTC, a demanding program. I also work on Writ 350 assignments during the weekend. I can schedule time to meet during the week, or schedule video conference sessions.
