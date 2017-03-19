@@ -6,7 +6,7 @@ Michael Scott is enrolled in a Writing 101 course at The University of Mississip
 
 His friend, Dwight Schrute, recommends PDF.js, a free PDF reader that does not require external downloading and is completely free. Schrute explains that this software can be used inside of Michael's internet browser, rather than having to download the documents his professor has put up on Blackboard. The software is also useful because it protects users from viruses because it requires no outside downloading and utilizes universal HTML and JAVA code. PDF.js is accessible through most browsers and is best accessed through Firefox or Chrome. 
 
-PDF.js is an open-source tool that is easily accessible for 
+PDF.js is an open-source tool that is easily accessible for "native-usage" inside of a web-browser. If students begin to have trouble accesses PDF.js, they can refer to our Step-By-Step Guide for using PDF.js. 
 </p>
 <p>
 I. Introduction
