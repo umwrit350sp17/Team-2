@@ -10,6 +10,10 @@ I. Introduction
 ¥	Technical background and competencies of audience demographic (you may need to back this up with a source. Check out Pew Internet Foundation for data.
 ¥	Limitations of the proposed document for the audience.
 
+2. PDF.js is an easily marketable tool because unlike ADOBE Acrobat or other PDF readers, it does not require the use of downloading external readers at all. The user can read PDF documents inside of a web browser using PDF.js because PDF.js simply transcribes the reader into HTML or JAVA code of the internet browser. 
+
+This open-resource would be useful for a Writing 101 student because it ______
+
   3. Why does our team feel passionately about this tool?
 
 II. What is (Chosen Open-Access Tool)?
