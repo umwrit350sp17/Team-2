@@ -4,7 +4,7 @@ Team 2: Project Outline
 <p>
 Michael Scott is enrolled in a Writing 101 course at The University of Mississippi. He has never been required to download a longer PDF document onto his computer, because at Dunder Mifflin Highschool he was not required to do so. He isn't even sure how he can read any of the assigned readings for this course without a subscription to a PDF Reader. Like Michael Scott, many internet users do not know how to use desktop applications if they have not had prior exposure, and because of this, he is very nervouse about reading his assigned materials on his computer. 
 
-
+His friend, Dwight Schrute, recommends PDF.js, a free PDF reader that does not require external downloading and is completely free. Schrute explains that this software can be used inside of Michael's internet browser, rather than having to download the documents his professor has put up on Blackboard. The software is also useful because it protects users from viruses because it requires no outside downloading and utilizes universal HTML and JAVA code. 
 </p>
 <p>
 I. Introduction
