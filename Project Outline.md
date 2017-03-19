@@ -16,6 +16,8 @@ I. Introduction
 This open-resource would be useful for a Writing 101 student because the user is not plagued with the hassles of outside software (i.e. updating software, making sure software has not given computer a virus). Another benefit of the PDF.js is due to its native usage within a web browser, instead of external download, one is less likely to "catch a virus", which is a risk all users are exposed to each time they make a download to their computer. 
 
   3. Why does our team feel passionately about this tool?
+  
+  Our team feels passionately about this tool because it somewhat provides a layer of protection from viruses, is a free resource, and saves time because PDFs no longer require downloading because of their existence within the web browser insteda of external software. The benefits of this tool are important for students at all levels, but especially important for entry level because of their mass exposure to new and much longer materials than what they are probably used to. 
 
 II. What is (Chosen Open-Access Tool)?
   1. What's the function?
