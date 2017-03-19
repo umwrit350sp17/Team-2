@@ -1,6 +1,7 @@
 <b>
 Team 2: Project Outline
 </b>
+_________________________________
 I. Introduction
   1. Why did we choose this tool?
   1. The goal of this project is to find an openly-resourced tool that would be most helpful and can easily replace expensive software for a Writing 101 student. PDF.js is an exceptionally whitty tool for downloading PDF documents without the hassel of downloading ADOBE or other expensive, time-consuming products, because of it's ability to utilize HTML and JAVA, which are essentially the language of the internet. By using this already programmed language, which is used universally, students can read PDF docs without having to download external software. This is because PDF.js requires no downloading at all, the PDF information is simply transcribed into HTML or JAVA format inside the browser. 
