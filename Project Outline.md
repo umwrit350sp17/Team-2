@@ -2,6 +2,11 @@
 Team 2: Project Outline
 </b>
 <p>
+Michael Scott is enrolled in a Writing 101 course at The University of Mississippi. He has never been required to download a longer PDF document onto his computer, because at Dunder Mifflin Highschool he was not required to do so. He isn't even sure how he can read any of the assigned readings for this course without a subscription to a PDF Reader. Like Michael Scott, many internet users do not know how to use desktop applications if they have not had prior exposure, and because of this, he is very nervouse about reading his assigned materials on his computer. 
+
+
+</p>
+<p>
 I. Introduction
   1. Why did we choose this tool?
   1. The goal of this project is to find an openly-resourced tool that would be most helpful and can easily replace expensive software for a Writing 101 student. PDF.js is an exceptionally whitty tool for downloading PDF documents without the hassel of downloading ADOBE or other expensive, time-consuming products, because of it's ability to utilize HTML and JAVA, which are essentially the language of the internet. By using this already programmed language, which is used universally, students can read PDF docs without having to download external software. This is because PDF.js requires no downloading at all, the PDF information is simply transcribed into HTML or JAVA format inside the browser. 
