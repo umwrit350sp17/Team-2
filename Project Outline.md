@@ -39,6 +39,8 @@ II. What is (Chosen Open-Access Tool)?
   5. How do I get it? (Post URLs to get to access the tool)
 
 III. How to Use (Open-Access Tool)
+*"Our instructions adhere to the following outline, listed below is the sequence by which our tutorial will follow."* 
+
   1. What are the tools that this mode of open-access utilizes or replaces?
   2. Which demonstration examples will be used?
   3. ¥	Specify overall organization of documentation (will you break up into folders folder or just individual files? Will you use longer files or shorter/more numerous files?)
