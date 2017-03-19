@@ -13,7 +13,7 @@ I. Introduction
 
 2. PDF.js is an easily marketable tool because unlike ADOBE Acrobat or other PDF readers, it does not require the use of downloading external readers at all. The user can read PDF documents inside of a web browser using PDF.js because PDF.js simply transcribes the reader into HTML or JAVA code of the internet browser. 
 
-This open-resource would be useful for a Writing 101 student because it ______
+This open-resource would be useful for a Writing 101 student because the user is not plagued with the hassles of outside software (i.e. updating software, making sure software has not given computer a virus). Another benefit of the PDF.js is due to its native usage within a web browser, instead of external download, one is less likely to "catch a virus", which is a risk all users are exposed to each time they make a download to their computer. 
 
   3. Why does our team feel passionately about this tool?
 
