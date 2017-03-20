@@ -61,14 +61,14 @@ III. How to Use (Open-Access Tool)
 	<li> How to use PDF.js shortcuts in browser 
 	( https://github.com/mozilla/pdf.js/wiki/Frequently-Asked-Questions#faq-annotations )
 	
-	</ul>
 	
-	<p>
+	
+<p>	
 <h2 style="font-size:100%;">
                                                                   
 IV. Conclusion
 </h2>
-</p>
+
   1. Why would this tool be useful to a student in Writ 101
   	-This open source resource allows for students to access PDF files for classes, research, and to study without the need to download an entire software program, such as Adobe. It allows for easier access and availability for Writ 101 	users to get ahold of the sources they need. 
   2. What's the first step?
