@@ -1,5 +1,7 @@
 <b>
+<h1 style="font-size:300%;">
 Team 2: Project Outline
+</h1>
 Title: Using PDF.js to Access PDF Documents
 </b>
 <p>
