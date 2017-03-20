@@ -60,7 +60,9 @@ III. Conclusion
 </h2>
 
   1. Why would this tool be useful to a student in Writ 101
-  	-This open source resource allows for students to access PDF files for classes, research, and to study without the need to download an entire software program, such as Adobe. It allows for easier access and availability for Writ 101 	users to get ahold of the sources they need. 
+  	-This open source resource allows for students to access PDF files for classes, research, and to study without the need to download an entire software program, such as Adobe. It allows for easier access and availability for Writ 101 	users to get ahold of the sources they need. Also, in intro-level writing courses are typically assigned heavier loads of reading to get new students adapted to the "average college work load". Where there are more reading assignment, there is a higher need for PDF reader efficiency. To test PDF.js it could be possible to do an experiment on Writing 101 classes, where half of the class is required to use systems such as ADOBE and the latter is required to us PDF.js. After doing a required reading, they could be asked what they think about each system. This could be a helpful way for professors to encourage the use of open-source software. 
   2. What's the first step?
   	-Following this link! --> https://mozilla.github.io/pdf.js/getting_started/#download
+	-Maybe creating a pro-con list of ADOBE vs. PDF.js
+
   </p>
