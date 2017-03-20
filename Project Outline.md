@@ -1,5 +1,6 @@
 <b>
 Team 2: Project Outline
+Title: Using PDF.js to Access PDF Documents
 </b>
 <p>
 Michael Scott is enrolled in a Writing 101 course at The University of Mississippi. He has never been required to download a longer PDF document onto his computer, because at Dunder Mifflin Highschool he was not required to do so. He isn't even sure how he can read any of the assigned readings for this course without a subscription to a PDF Reader. Like Michael Scott, many internet users do not know how to use desktop applications if they have not had prior exposure, and because of this, he is very nervouse about reading his assigned materials on his computer. 
@@ -39,17 +40,19 @@ II. What is (Chosen Open-Access Tool)?
   5. How do I get it? (Post URLs to get to access the tool)
 
 III. How to Use (Open-Access Tool)
-*"Our instructions adhere to the following outline, listed below is the sequence by which our tutorial will follow."* 
 
   1. What are the tools that this mode of open-access utilizes or replaces?
+  	-Replaces software such as Adobe Acrobate, Sumatra PDF, and other downloadable software
+	
   2. Which demonstration examples will be used?
-  3. ¥	Specify overall organization of documentation (will you break up into folders folder or just individual files? Will you use longer files or shorter/more numerous files?)
-¥	Specify use of multimedia content (screenshots, videos, other images)
-¥	Specify preliminary external links and sources that you may want to include
-¥	Provide general outline of the content, including
-	How the document will be introduced
-	The order of presentation of the instructions
-	How many steps/units of the process
+ 	-Our instructions adhere to the following outline, listed below is the sequence by which our tutorial will follow. All information will be broken down into different files instead of folders because there are few tasks faced by users when using this reader. 
+	<ul>
+	<li> Finding PDF.js ( https://mozilla.github.io/pdf.js/getting_started/#download )
+	<li> Using example PDFs (screenshots), how to open PDFs in PDF.js (screenshots)
+	<li> Screenshots of differences between external readers (ADOBE) versus PDF.js (images) (maybe video)
+	<li> How to use PDF.js shortcuts in browser ( https://web.archive.org/web/20160408133647/https://blog.mozilla.org/cjones/2011/06/15/overview-of-pdf-js-guts/  and https://andreasgal.com/2011/06/15/pdf-js/ )
+	</ul>
+	
 
                                                                   
 IV. Conclusion
