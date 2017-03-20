@@ -31,20 +31,10 @@ This open-resource would be useful for a Writing 101 student because the user is
   
   Our team feels passionately about this tool because it somewhat provides a layer of protection from viruses, is a free resource, and saves time because PDFs no longer require downloading because of their existence within the web browser insteda of external software. The benefits of this tool are important for students at all levels, but especially important for entry level because of their mass exposure to new and much longer materials than what they are probably used to. 
 <p>
-<h2 style= "font-size:100%;">
-II. What is (Chosen Open-Access Tool)?
-</h2>
-</p> 
 
-  1. What's the function?
-  2. Why was is created?  
-  3. Who created it?
-  4. Is it widely used?
-  5. How do I get it? (Post URLs to get to access the tool)
-</h2>
 <p>
 <h2 style="font-size:100%;">
-III. How to Use (Open-Access Tool)
+II. How to Use (Open-Access Tool)
 </h2>
 </p>
   1. What are the tools that this mode of open-access utilizes or replaces?
@@ -66,7 +56,7 @@ III. How to Use (Open-Access Tool)
 <p>	
 <h2 style="font-size:100%;">
                                                                   
-IV. Conclusion
+III. Conclusion
 </h2>
 
   1. Why would this tool be useful to a student in Writ 101
