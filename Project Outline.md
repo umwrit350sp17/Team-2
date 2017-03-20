@@ -13,15 +13,10 @@ PDF.js is an open-source tool that is easily accessible for "native-usage" insid
 I. Introduction
 </p>
 <p>
-  1. Why did we choose this tool?
+  
   1. The goal of this project is to find an openly-resourced tool that would be most helpful and can easily replace expensive software for a Writing 101 student. PDF.js is an exceptionally whitty tool for downloading PDF documents without the hassel of downloading ADOBE or other expensive, time-consuming products, because of it's ability to utilize HTML and JAVA, which are essentially the language of the internet. By using this already programmed language, which is used universally, students can read PDF docs without having to download external software. This is because PDF.js requires no downloading at all, the PDF information is simply transcribed into HTML or JAVA format inside the browser. 
   </p>
   <p>
-  2. Why is this tool marketable to Writ 101 students? (Necessity, eaiser to use) *needs to be 250 words 
-       -Content: The audience Profile should contain at least the following information
-¥	Use case scenario for a specific member of the audience (detailed: John Smith at UM in a WRIT 100 class in Fall 2018, etc)
-¥	Technical background and competencies of audience demographic (you may need to back this up with a source. Check out Pew Internet Foundation for data.
-¥	Limitations of the proposed document for the audience.
 
 2. PDF.js is an easily marketable tool because unlike ADOBE Acrobat or other PDF readers, it does not require the use of downloading external readers at all. The user can read PDF documents inside of a web browser using PDF.js because PDF.js simply transcribes the reader into HTML or JAVA code of the internet browser. 
 
@@ -45,17 +40,23 @@ III. How to Use (Open-Access Tool)
   	-Replaces software such as Adobe Acrobate, Sumatra PDF, and other downloadable software
 	
   2. Which demonstration examples will be used?
- 	-Our instructions adhere to the following outline, listed below is the sequence by which our tutorial will follow. All information will be broken down into different files instead of folders because there are few tasks faced by users when using this reader. 
+ 	-Our instructions adhere to the following outline, listed below is the sequence by which our tutorial will follow. All 		information will be broken down into different files instead of folders because there are few tasks faced by users
+	when using this reader. 
 	<ul>
 	<li> Finding PDF.js ( https://mozilla.github.io/pdf.js/getting_started/#download )
-	<li> Using example PDFs (screenshots), how to open PDFs in PDF.js (screenshots)
+	<li> Using example PDFs (screenshots), how to open PDFs in PDF.js (screenshots) 
+	( https://web.archive.org/web/20160408133647/https://blog.mozilla.org/cjones/2011/06/15/overview-of-pdf-js-guts/  and https://andreasgal.com/2011/06/15/pdf-js/ )
 	<li> Screenshots of differences between external readers (ADOBE) versus PDF.js (images) (maybe video)
-	<li> How to use PDF.js shortcuts in browser ( https://web.archive.org/web/20160408133647/https://blog.mozilla.org/cjones/2011/06/15/overview-of-pdf-js-guts/  and https://andreasgal.com/2011/06/15/pdf-js/ )
+	<li> How to use PDF.js shortcuts in browser 
+	( https://github.com/mozilla/pdf.js/wiki/Frequently-Asked-Questions#faq-annotations )
+	
 	</ul>
 	
 
                                                                   
 IV. Conclusion
   1. Why would this tool be useful to a student in Writ 101
+  	-This open source resource allows for students to access PDF files for classes, research, and to study without the need to download an entire software program, such as Adobe. It allows for easier access and availability for Writ 101 	users to get ahold of the sources they need. 
   2. What's the first step?
+  	-Following this link! --> https://mozilla.github.io/pdf.js/getting_started/#download
   </p>
