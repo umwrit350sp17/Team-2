@@ -12,7 +12,9 @@ His friend, Dwight Schrute, recommends PDF.js, a free PDF reader that does not r
 PDF.js is an open-source tool that is easily accessible for "native-usage" inside of a web-browser. If students begin to have trouble accesses PDF.js, they can refer to our Step-By-Step Guide for using PDF.js. 
 </p>
 <p>
+<h2 style= "font-size:100%;">
 I. Introduction
+</h2>
 </p>
 <p>
   
