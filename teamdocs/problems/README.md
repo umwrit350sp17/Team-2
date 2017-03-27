@@ -1,5 +1,14 @@
 Potential Problems with PDF.js
 
+Specific problems can be reported and reviewed for further assistance 
+
+How to report an issue
+Specify a valid title and provide more details
+Ex: Link to issue, screenshot, browser version, operating system, Javascript warning messages
+Issues reported without specific details will be closed as invalid/incomplete
+It is still possible for corrupted PDF files to be displayed on PDF.js. Report the corrupted file for further help. 
+
+
 Downloading Oversized Files
   - Build a minified version of the PDF with the command: "Gulp minified"
   - UglifyJS is used to minify JS files because other minifiers could break the PDF.js code. Let it be known that minifiers are safe are safe to use such as Google Closure Compiler, in whitespace/comments removal mode
