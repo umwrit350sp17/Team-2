@@ -2,7 +2,8 @@ Potential Problems with PDF.js
 
 Specific problems can be reported and reviewed for further assistance 
 
-How to report an issue
+How to report an issue:
+
 Specify a valid title and provide more details
 Ex: Link to issue, screenshot, browser version, operating system, Javascript warning messages
 Issues reported without specific details will be closed as invalid/incomplete
