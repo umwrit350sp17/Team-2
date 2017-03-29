@@ -1,4 +1,6 @@
 Frequently Asked Questions
+*This is a modified and special selected FAQ due to the specificity of this project. For further potential questions please see the original FAQ at: https://github.com/mozilla/pdf.js/wiki/Frequently-Asked-Questions
+
 
 Is it possible to add annotations to a PDF?
 
@@ -48,6 +50,5 @@ Nested outline items can be expanded/collapsed by clicking on the triangles at t
 To expand/collapse all items under the selected item, press Shift while clicking on the triangle.
 Double-click on the "Show document outline" button (Show document outline) to expand/collapse all outline items.
 
-This is a modified and special selected FAQ due to the specificity of this project. For further potential questions please see the original FAQ at: https://github.com/mozilla/pdf.js/wiki/Frequently-Asked-Questions
 
 
