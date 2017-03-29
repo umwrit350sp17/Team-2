@@ -1,3 +1,4 @@
+<b>
 <h1>
 Team 2: 
 </h1>
@@ -5,7 +6,7 @@ Team 2:
 <h1>
 Step One: 
 </h1>
-
+</b>
 ![picture](assets/picture 11.png)
 
 <h1>
