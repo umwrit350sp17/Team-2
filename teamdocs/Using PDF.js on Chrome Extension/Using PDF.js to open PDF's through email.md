@@ -1,4 +1,6 @@
-<h1>
+<h1 style="font-size:300%;">
+Team 2: Project Outline
+</h1>
 How to Open PDFs on PDF.js from Gmail
 </h1>
 
