@@ -20,9 +20,11 @@ Step Two: Click “+Add to Chrome”
 
 </h1>
 ![Picture of option to download PDF.js](assets/picture9.png) 
+
 <h1>
 Step Three: Grant access to PDF.js through Chrome Extension
 </h1>
+
 ![This can be found within Downloads](assets/picture6.png)
 
 
