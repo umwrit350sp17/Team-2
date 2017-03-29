@@ -1,4 +1,5 @@
 Frequently Asked Questions
+
 *This is a modified and special selected FAQ due to the specificity of this project. For further potential questions please see the original FAQ at: https://github.com/mozilla/pdf.js/wiki/Frequently-Asked-Questions
 
 
