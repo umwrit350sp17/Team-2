@@ -1,1 +1,1 @@
-Here is the readme file for the teamdocs folders. 
+This is the page for team introductory. 
