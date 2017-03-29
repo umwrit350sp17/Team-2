@@ -8,5 +8,6 @@ Team 2: Introduction to PDF.js
 PDF.js is an software orginally embedded within the code of Firefox. 
 For this tutorial, we will show how to download and use the Google Chrome Extension. 
 </h1>
+</b>
 
 ![this is a picture of the chrome installer](assets/picture7.png)
