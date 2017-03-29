@@ -2,7 +2,7 @@ Before trying to download PDF.js as a Google Chrome Extension, make sure that yo
 
 Step One: Access the Google Chrome Web Store and search for "PDF.js" in the search bar. 
 
-![This is what your screen should look like after you have searched "PDF.js"](assets/Picture 2.png)
+![This is what your screen should look like after you have searched "PDF.js"](assets/picture2.png)
 
 Step Two: Click “+Add to Chrome”
 
