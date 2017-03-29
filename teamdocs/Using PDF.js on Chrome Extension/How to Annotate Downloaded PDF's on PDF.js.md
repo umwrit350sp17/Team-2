@@ -8,13 +8,18 @@
  
  ![picture](assets/pic9.png) 
  
+ <h1>
+ These are your annotation buttons
+ </h1>
+ ![picture](assets/pic4.png)
+ 
 ![picture](assets/pic1.png) 
 
 ![picture](assets/pic2.png)
            
            ![picture](assets/pic3.png)
                       
-![picture](assets/pic4.png)
+
 ![picture](assets/pic5.png)
 ![picture](assets/pic6.png)
 ![picture](assets/pic7.png)
