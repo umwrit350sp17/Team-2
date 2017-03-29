@@ -5,4 +5,10 @@ Step One: Access the Google Chrome Web Store and search for "PDF.js" in the sear
 ![This is what your screen should look like after you have searched "PDF.js"](assets/picture2.png)
 
 Step Two: Click “+Add to Chrome”
+![Picture of option to download PDF.js](assets/picture9.png) 
+
+Step Three: Grant access to PDF.js through Chrome Extension
+![This can be found within Downloads](assets/picture6.png)
+
+
 
