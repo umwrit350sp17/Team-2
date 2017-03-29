@@ -4,6 +4,8 @@
  
  <h1>
  Step One: This is the top of your PDF.js reader. Each of the three buttons on the top right hand corner of your page gives you the ability to annotate your document. 
+ </h1>
+ 
  ![picture](assets/pic9.png) 
  
 ![picture](assets/pic1.png) 
