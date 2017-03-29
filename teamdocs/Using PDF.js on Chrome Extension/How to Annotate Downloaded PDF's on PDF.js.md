@@ -12,7 +12,8 @@
  These are your annotation buttons
  </h1>
  
- ![picture](assets/pic3.png)
+ ![picture](assets/pic2.png)
+ 
  
  <h1> We will specifically be looking at this button
  </h1>
@@ -24,7 +25,7 @@
 ![picture](assets/pic2.png)
 
 
-
+![picture](assets/pic3.png)
            
        
                       
