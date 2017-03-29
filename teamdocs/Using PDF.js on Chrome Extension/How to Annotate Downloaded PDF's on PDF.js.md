@@ -20,6 +20,11 @@
  
  ![picture](assets/pic4.png)
  
+ <h1>
+ Click on this button for the drop down menu
+ </h1>
+ ![picture](assets/pic5.png)
+ 
 ![picture](assets/pic1.png) 
 
 ![picture](assets/pic2.png)
@@ -30,7 +35,7 @@
        
                       
 
-![picture](assets/pic5.png)
+
 ![picture](assets/pic6.png)
 ![picture](assets/pic7.png)
 ![picture](assets/pic8.png)
