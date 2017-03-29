@@ -19,6 +19,7 @@ Step One: Access the Google Chrome Web Store and search for "PDF.js" in the sear
 Step Two: Click “+Add to Chrome”
 
 </h1>
+
 ![Picture of option to download PDF.js](assets/picture9.png) 
 
 <h1>
