@@ -38,9 +38,10 @@ Choose a highlighter color. For this example, We chose yellow.
  
  ![picture](assets/pic7.png)
  
+ 
+ 
 ![picture](assets/pic1.png) 
 
-![picture](assets/pic2.png)
 
 
 ![picture](assets/pic3.png)
@@ -49,7 +50,7 @@ Choose a highlighter color. For this example, We chose yellow.
                       
 
 
-![picture](assets/pic6.png)
-![picture](assets/pic7.png)
+
+
 ![picture](assets/pic8.png)
 
