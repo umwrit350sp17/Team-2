@@ -3,8 +3,9 @@ Team 2:
 </h1>
 
 <h1>
-Step One:
+Step One: 
 </h1>
+
 ![picture](assets/picture 11.png)
 
 <h1>
