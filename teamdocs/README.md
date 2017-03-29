@@ -10,6 +10,7 @@ The following questions will be answered:
   -How to download PDF.js through Google Chrome
   
   -Potential problems that you could face such as
+     
      -Oversized files
     
     -Corrupted files
