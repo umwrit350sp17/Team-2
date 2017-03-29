@@ -5,6 +5,7 @@ You will need Google Chrome in order to access this extension and for these inst
 The following questions will be answered:
   
   -What is PDF.js?
+    
     -How to use it and what to use it for
   
   -How to download PDF.js through Google Chrome
