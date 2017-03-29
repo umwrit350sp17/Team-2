@@ -27,14 +27,14 @@ Step Three: Select the option "PDF Document (.pdf)"
 ![picture](assets/picture11.png)
 
 
-
+<h1>
+Step Four: Your Google Document can be found in your Downloads. After downloading, make sure you save your new PDF to your computer
+</h1>
 
 
 ![picture](assets/picture3.png)
 
-<h1>
-Step Four: 
-</h1>
+
 
 
 
