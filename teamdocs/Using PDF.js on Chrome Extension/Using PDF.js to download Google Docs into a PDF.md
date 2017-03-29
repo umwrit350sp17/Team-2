@@ -20,18 +20,16 @@ Step Two: </u> Tab down from the "File" folder until you reach "Download As"
 
 ![picture](assets/picture11.png)
 
-<h1>
-Step Two: 
-</h1>
+
 
 <h1>
-Step Three: Select the option "PDF"
+Step Three: Select the option "PDF Document (.pdf)"
 </h1>
 
 ![picture](assets/picture3.png)
 
 <h1>
-Step Three: 
+Step Four: 
 </h1>
 
 ![picture](assets/picture5.png)
