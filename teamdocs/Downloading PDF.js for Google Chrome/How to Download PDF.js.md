@@ -1,6 +1,6 @@
 <b>
 <h1 style="font-size:300%;">
-Team 2: Project Outline
+Team 2: Downloading PDF.js for Google Chrome
 </h1>
 </b>
 <h1>
