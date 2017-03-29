@@ -12,7 +12,11 @@
  These are your annotation buttons
  </h1>
  
- ![picture](assets/pic3.png) 
+ ![picture](assets/pic3.png)
+ 
+ <h1> We will specifically be looking at this button
+ </h1>
+ 
  ![picture](assets/pic4.png)
  
 ![picture](assets/pic1.png) 
