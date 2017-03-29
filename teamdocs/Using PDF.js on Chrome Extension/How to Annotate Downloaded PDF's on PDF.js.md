@@ -30,6 +30,12 @@
  This is what your screen should look like before you begin annotation
  </h1>
  
+![picture](assets/pic6.png)
+
+<h1>
+Choose a highlighter color. For this example, We chose yellow. 
+ </h1>
+ 
  ![picture](assets/pic7.png)
  
 ![picture](assets/pic1.png) 
