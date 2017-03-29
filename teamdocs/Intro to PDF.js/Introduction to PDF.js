@@ -2,8 +2,8 @@
 <b>
 <h1 style="font-size:300%;">
 Team 2: Introduction to PDF.js
-</b>
 </h1>
+</b>
 <p>
  
 <h1>
