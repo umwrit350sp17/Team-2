@@ -4,8 +4,8 @@ Team 2: Using PDF.js to Convert a Google Doc into a PDF file
 </h1>
 
 <h1>
-<u>
-Step One:</u>  Log into your Google account. Go to your Google Doc and go to "File". 
+<span style="text-decoration: underline;">
+Step One:</span>  Log into your Google account. Go to your Google Doc and go to "File". 
 
 </h1>
 
