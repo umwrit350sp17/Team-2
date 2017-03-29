@@ -7,6 +7,7 @@ Team 2:
 Step One: 
 </h1>
 </b>
+
 ![picture](assets/picture11.png)
 
 <h1>
