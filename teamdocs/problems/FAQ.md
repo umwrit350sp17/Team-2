@@ -1,19 +1,31 @@
+<h1>
 Frequently Asked Questions
+</h1>
 
+<h2>
 *This is a modified and special selected FAQ due to the specificity of this project. For further potential questions please see the original FAQ at: https://github.com/mozilla/pdf.js/wiki/Frequently-Asked-Questions
 
+</h2>
 
+<h1>
 Is it possible to add annotations to a PDF?
+</h1>
 
 -PDF.js is mainly written for reading PDF files, not editing them. Because of that we don't yet support adding any kind of annotations. We do however support rendering a number of annotation types for viewing.
 
+<h1>
+
 PDF.js does not render my files correctly. Can I report an issue?
+</h1>
 
 -Yes. The issues are used to track both bugs filed by users and specific work items for developers. Try to file one issue per problem observed.
 
 -Please specify valid title (e.g. "Glyph spacing is incorrect" instead of "PDF.js does not work") and provide more details about the issue: link to the PDF, location in the PDF, screenshot, browser version, operating system, PDF.js version and JavaScript console warning/error messages. The issues that do not have enough details provided will be closed as invalid/incomplete.
 
+<h1>
+
 The PDF.js files are too big. Is it possible to obtain minified versions of the JS files?
+</h1>
 
 -You can build a minified version of PDF.js using the following command:
 
@@ -21,8 +33,10 @@ The PDF.js files are too big. Is it possible to obtain minified versions of the 
 
 -We use UglifyJS to minify the JS files. It is known that other minifiers might break PDF.js code if advanced options are used (see #710 or #2479). It's safe to use minifiers, such as Google Closure Compiler, in whitespace/comments removal mode.
 
-What are the PDF.js keyboard shortcuts?
+<h1>
 
+What are the PDF.js keyboard shortcuts?
+</h1>
 
 -Navigation
 
