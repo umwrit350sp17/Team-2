@@ -10,3 +10,7 @@ PDF.js is a online PDF reader than was originally embedded within the code of Fi
 <p>
 Our group will not be licensing this project because PDF.js is a free service and we believe that everyone should be able to access this free PDF service. 
 </p>
+
+<p>
+Link to PDF.js Github Page: https://mozilla.github.io/pdf.js/
+</p>
